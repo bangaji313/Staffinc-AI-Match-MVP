@@ -192,5 +192,5 @@ Internal tool — proprietary to **Staffinc**. Not licensed for external distrib
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by the Staffinc AI Team</sub>
+  <sub>Built with ❤️ by Seno Aji</sub>
 </div>
