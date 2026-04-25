@@ -1,0 +1,92 @@
+[
+  {
+    "id": "C001",
+    "name": "Budi Santoso",
+    "technical_skills": ["Python", "FastAPI"],
+    "interview_notes": "Budi has excellent communication skills and fast execution. He is very adaptable, used to a fast-paced environment, and fits perfectly into the startup's dynamic work culture with minimal bureaucracy."
+  },
+  {
+    "id": "C002",
+    "name": "Siti Aminah",
+    "technical_skills": ["React", "Node.js"],
+    "interview_notes": "Siti has a very strong 'executive presence'. Her communication is very structured, methodical, and she prefers a consulting or corporate work environment with clear structure and formal communication."
+  },
+  {
+    "id": "C003",
+    "name": "Andi Wijaya",
+    "technical_skills": ["Java", "Spring Boot"],
+    "interview_notes": "Andi is very solid technically, but a bit passive in proactive communication. He prefers to work alone and needs very detailed instructions. He is less suitable for roles in ambiguous startups that demand high collaboration."
+  },
+  {
+    "id": "C004",
+    "name": "Dewi Rahayu",
+    "technical_skills": ["Kubernetes", "Docker", "Terraform", "AWS", "CI/CD"],
+    "interview_notes": "Dewi is a seasoned DevOps engineer with 6 years of cloud infrastructure experience. She is highly process-oriented and thrives in environments that value reliability and uptime. She has led migration projects from on-premise to AWS and is comfortable working cross-functionally with both engineering and product teams. She prefers structured sprint ceremonies but can adapt to leaner workflows."
+  },
+  {
+    "id": "C005",
+    "name": "Rizky Firmansyah",
+    "technical_skills": ["Machine Learning", "Python", "TensorFlow", "PyTorch", "Pandas", "Scikit-learn"],
+    "interview_notes": "Rizky is a data scientist with a strong academic background in statistics. He is intellectually curious and deeply motivated by solving ambiguous problems. He communicates complex ideas clearly to non-technical stakeholders, which is rare for his profile. He works best in research-heavy environments where experimentation is valued over rapid delivery."
+  },
+  {
+    "id": "C006",
+    "name": "Maya Kusuma",
+    "technical_skills": ["Vue.js", "TypeScript", "GraphQL", "Figma", "CSS Animations"],
+    "interview_notes": "Maya is a frontend engineer with a strong eye for design. She has 4 years of experience building consumer-facing web applications and cares deeply about UX quality and accessibility standards. She is collaborative, frequently pairs with designers, and contributes to design systems. She prefers product-led companies where user experience is a top priority."
+  },
+  {
+    "id": "C007",
+    "name": "Fajar Nugroho",
+    "technical_skills": ["Go", "gRPC", "PostgreSQL", "Redis", "Microservices"],
+    "interview_notes": "Fajar is a backend engineer specializing in high-throughput distributed systems. He has built payment infrastructure handling millions of transactions per day. He is direct, results-driven, and thrives under pressure. He is not afraid to push back on product decisions when technical debt is a concern. Best suited for fintech or e-commerce environments with scale challenges."
+  },
+  {
+    "id": "C008",
+    "name": "Laila Putri",
+    "technical_skills": ["iOS", "Swift", "SwiftUI", "Xcode", "Core Data"],
+    "interview_notes": "Laila is an iOS developer with 5 years of experience shipping apps on the App Store. She has a methodical approach to debugging and writes very clean, testable code. She is introverted but highly effective in async-first remote teams. She values documentation and engineering excellence. Less comfortable in chaotic environments with frequent scope changes."
+  },
+  {
+    "id": "C009",
+    "name": "Hendra Saputra",
+    "technical_skills": ["Android", "Kotlin", "Jetpack Compose", "Firebase", "REST APIs"],
+    "interview_notes": "Hendra is an enthusiastic and growth-oriented Android developer. He has shipped three production apps with over 100k downloads and has strong ownership mentality. He is quick to pick up new frameworks and enjoys mentoring junior developers. He is a cultural fit for startups that invest in learning and development programs."
+  },
+  {
+    "id": "C010",
+    "name": "Nadia Hartono",
+    "technical_skills": ["Data Engineering", "Apache Spark", "Airflow", "dbt", "BigQuery", "Snowflake"],
+    "interview_notes": "Nadia is a senior data engineer with deep expertise in building scalable data pipelines for analytics. She is highly collaborative and has worked as the bridge between data science and engineering teams. She communicates proactively when blockers arise and is experienced in stakeholder management at the VP level. She prefers data-mature organisations over early-stage startups."
+  },
+  {
+    "id": "C011",
+    "name": "Dimas Pratama",
+    "technical_skills": ["Ruby on Rails", "PostgreSQL", "Sidekiq", "RSpec", "AWS S3"],
+    "interview_notes": "Dimas is a full-stack Ruby on Rails developer with a product mindset. He often contributes ideas beyond his technical scope and has experience as a solo engineer owning an entire product feature. He is highly self-sufficient, manages his own deployments, and values autonomy. Best suited for small, trusted teams where individual contributors have high impact."
+  },
+  {
+    "id": "C012",
+    "name": "Anisa Ramadhani",
+    "technical_skills": ["Cybersecurity", "Penetration Testing", "SIEM", "Python", "Network Security"],
+    "interview_notes": "Anisa is a sharp and detail-oriented security engineer with experience in both offensive and defensive security. She has conducted penetration testing for banking and government clients and holds a OSCP certification. She is discreet and professional but very assertive when security risks are being downplayed by business stakeholders. She is ideal for regulated industries that take compliance seriously."
+  },
+  {
+    "id": "C013",
+    "name": "Yoga Prakoso",
+    "technical_skills": ["Salesforce", "Apex", "LWC", "CRM Integration", "Tableau"],
+    "interview_notes": "Yoga is a Salesforce developer and CRM specialist with 7 years of experience across sales, service, and marketing clouds. He is consultative by nature and has a strong track record of translating business requirements into platform solutions. He is patient, client-facing, and excellent in discovery workshops. Best suited for enterprise B2B companies undergoing CRM transformation."
+  },
+  {
+    "id": "C014",
+    "name": "Putri Wulandari",
+    "technical_skills": ["Product Analytics", "SQL", "Mixpanel", "Amplitude", "A/B Testing", "Python"],
+    "interview_notes": "Putri sits at the intersection of data and product. She has 4 years of experience as a growth analyst running experiments across funnel stages. She is extremely data-literate, challenges assumptions with evidence, and communicates insights with strong narrative skills. She works best in product companies with a culture of experimentation and psychological safety."
+  },
+  {
+    "id": "C015",
+    "name": "Bagas Wicaksono",
+    "technical_skills": ["Embedded Systems", "C", "C++", "RTOS", "IoT", "MQTT"],
+    "interview_notes": "Bagas is a niche but highly skilled embedded systems engineer. He has worked on industrial IoT devices and automotive firmware. He is methodical, safety-conscious, and brings deep hardware-software co-design experience. He is less experienced with modern agile workflows but excels in projects where precision and reliability are non-negotiable. Ideal for hardware or IoT-focused product companies."
+  }
+]
