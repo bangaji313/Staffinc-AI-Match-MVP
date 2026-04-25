@@ -1,0 +1,46 @@
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# ── Environment variables ──────────────────────────────────────────────────────
+.env
+.env.*
+**/.env
+**/.env.*
+
+# ── Node.js ───────────────────────────────────────────────────────────────────
+node_modules/
+frontend/dist/
+frontend/.vite/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ── Docker ────────────────────────────────────────────────────────────────────
+# Local named-volume data (if bind-mounted)
+data/
+
+# ── Project-specific ──────────────────────────────────────────────────────────
+backend/chroma_db/
+
+# ── OS & editors ──────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
